@@ -1,3 +1,7 @@
+## 10.1.1
+
+- bumped stripe_ios sdk for privacy manifest 
+
 ## 10.1.0
 
 **Features**
